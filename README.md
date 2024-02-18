@@ -7,6 +7,10 @@
 
 ### [TawasolMap 🗺️](https://play.google.com/store/apps/details?id=com.tawasolmap.gps)
 
+### [Driver - نقلة 🚗](https://play.google.com/store/apps/details?id=org.naqla.driver)
+
+### [nTeam 🤝](https://play.google.com/store/apps/details?id=org.naqla.nteam)
+
 ### [Giants Book Series 📚](https://play.google.com/store/apps/details?id=com.momen.giants)
 
 ### [Abgd 🏢](https://play.google.com/store/apps/details?id=com.momen.abgd)
