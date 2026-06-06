@@ -1,55 +1,72 @@
-# Hi, I'm Mo'men Refaat! 👋
+# Hi, I'm Mo'men Refaat 👋
 
-## About Me
-🚀 I am an experienced and passionate Android Developer with a proven track record of developing high-performance and user-friendly mobile applications. I thrive on pushing the boundaries of app development and leveraging cutting-edge technologies to deliver exceptional solutions. My goal is to create immersive and impactful user experiences through innovative mobile app development.
+Senior Android Developer with 5+ years of experience building production mobile applications in fintech, logistics, transportation, and on-demand services.
 
-## Project Samples
+Currently working at **Al Ahly Momkn**, developing secure payment solutions and scalable Android applications.
 
-### [TawasolMap 🗺️](https://play.google.com/store/apps/details?id=com.tawasolmap.gps)
+## 🚀 Featured Apps
 
-### [Driver - نقلة 🚗](https://play.google.com/store/apps/details?id=org.naqla.driver)
+| App                                                                                           | Description                           |
+| --------------------------------------------------------------------------------------------- | ------------------------------------- |
+| [Momkn](https://play.google.com/store/apps/details?id=com.momkn.consumer)                     | Consumer payments app                 |
+| [TawasolMap](https://play.google.com/store/apps/details?id=com.tawasolmap.gps)                | GPS tracking app (10K+ downloads)     |
+| [Naqla Driver](https://play.google.com/store/apps/details?id=org.naqla.driver)                | Logistics driver app (50K+ downloads) |
+| [Learn Al-Fateha](https://play.google.com/store/apps/details?id=com.tafsir.learnalfateha.app) | Educational app (10K+ downloads)      |
+| [Naqla Team](https://play.google.com/store/apps/details?id=org.naqla.nteam)                   | Internal operations app               |
+| [Chicago Burger](https://play.google.com/store/apps/details?id=com.diamondage.chicagoburger)  | Food ordering app with HyperPay       |
+| [Osta](https://play.google.com/store/apps/details?id=com.osta.osta_user)                      | Home services platform                |
+| [Osta Provider](https://play.google.com/store/apps/details?id=com.osta.osta_provider)         | Service provider app                  |
+| [Diamond Box](https://play.google.com/store/apps/details?id=com.diamondbox.diamond_box)       | Business management platform          |
+| [Slide](https://apps.apple.com/eg/app/slide/id6751753137)                                     | Investment platform                   |
+| [Giants Book Series](https://apkpure.com/giants-book-series/com.momen.giants)                 | Educational app (15K+ downloads)      |
 
-### [nTeam 🤝](https://play.google.com/store/apps/details?id=org.naqla.nteam)
+## 💻 Tech Stack
 
-### [Giants Book Series 📚](https://play.google.com/store/apps/details?id=com.momen.giants)
+### Android
 
-### [Abgd 🏢](https://play.google.com/store/apps/details?id=com.momen.abgd)
+* Kotlin
+* Java
+* Jetpack Compose
+* MVVM
+* Clean Architecture
+* Coroutines & Flow
+* Dagger Hilt
+* Room
+* Retrofit
+* Paging 3
+* Firebase
+* Google Maps
 
-### [DTP - Difficulty Challenge 📖](https://play.google.com/store/apps/details?id=com.momen.dyslexia)
+### Flutter
 
-### [Speaking Pics 📷](https://play.google.com/store/apps/details?id=com.momen.speakingpics)
+* Dart
+* Flutter
+* BLoC
+* Dio
+* REST APIs
 
-### [E.I.P 🧠](https://play.google.com/store/apps/details?id=com.momen.cpearlydetection)
+### Tools
 
-## Education
+* Git & GitHub
+* Android Studio
+* Postman
+* Firebase Crashlytics
+* Shorebird
 
-- Bachelor’s in Computer Science from Faculty of Computers and AI, Beni Suef University.
-- GPA: 3.04/4 (B – Very Good)
+## 💼 Experience
 
-## Technologies & Skills
+* Senior Android Developer @ Al Ahly Momkn
+* Android Developer @ Naqla
+* Flutter Developer (Part-Time) @ The Diamond Age
+* Android / Flutter Developer @ Tawasol Al Riyadh
 
-- Android Development (Java & Kotlin)
-- Flutter (Dart)
-- Firebase
-- REST API
-- Dagger Hilt
-- Google Maps
-- MVVM Architecture
-- Problem-Solving
+## 🎓 Education
 
+Bachelor's Degree in Computer Science
+Faculty of Computers and Artificial Intelligence, Beni Suef University
 
-## Certificates
+## 📫 Contact
 
-- One Million Arab Coders: Android Development Track.
-- ITI - Mahara-Tech: Developing Mobile Applications for Android using Java.
-
-
-## Contact
-
-Feel free to reach out to me via email at momenrefaat22@gmail.com or connect with me on:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momenrefaat)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/momenrollins)
-
-
-🤝 I'm always open to new opportunities and collaborations, so don't hesitate to get in touch!
+* Email: [momenrefaat22@gmail.com](mailto:momenrefaat22@gmail.com)
+* LinkedIn: https://linkedin.com/in/momenrefaat
+* GitHub: https://github.com/momenrollins
